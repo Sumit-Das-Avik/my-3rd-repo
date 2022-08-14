@@ -52,3 +52,9 @@ h5{
     color: chartreuse;
     border: 10px solid cyan;
 }
+h2{
+    color: darkcyan;
+    border: 5px solid red;
+    padding: 10px;
+    margin: 10px 20px;
+}
